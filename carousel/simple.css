@@ -1,0 +1,23 @@
+#main {
+    width: 90%;
+    margin: 0 auto;
+    float: left;
+}
+#content {
+    width: 800px;
+    margin: 0 auto;
+    float: left;
+}
+footer {
+	width: 800px;
+	margin: 0 auto;
+	float: left;
+}
+.albums {
+	padding-left: 12.5px;
+	padding-right: 12.5px;
+	float: left;
+}
+.albums.first {
+	padding-left: 0;
+}
